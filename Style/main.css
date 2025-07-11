@@ -294,3 +294,78 @@ footer a{
    border-radius: 14px;
    margin: 200px 150px 0px 150px;
 }
+/* Let's make review section */
+.review-titel{
+    font-size: 42px;
+    font-weight: bold;
+    height: 49px;
+    width: 1140px;
+    margin:136px 550px 50px 500px
+}
+.star-icon{
+    display: inline;
+}
+.card-titel{
+    height: 29px;
+    width: 225px;
+}
+.card-paragraph{
+    height: 44px;
+    width: 318px;
+}
+.avater{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 40px;
+}
+.name-avater-add{
+    display: flex;
+}
+.name-date-add{
+    margin: 0px 0px 0px 10px;
+}
+.card{
+    background-color: white;
+    border: 3px solid #f6d5d5;
+    border-radius: 24px;
+    height: 213px;
+    width: 327px;
+    padding: 24px;
+}
+.card-section{
+    display: flex;
+    gap: 20px;
+    margin: 0px 100px 0px 100px ;
+}
+/* let's play with buttons */
+.signup:hover{
+    cursor: pointer;
+    font-size:larger;
+    background-color: coral;
+    
+}
+.stay-focused:hover{
+    cursor: pointer;
+    font-size:larger;
+    background-color: coral;
+}
+.action-buttons:hover{
+    cursor: pointer;
+    font-size:25px;
+    background-color: coral;
+}
+.optional-button:hover{
+    cursor: pointer;
+    font-size:larger;
+    background-color: coral;
+}
+.get-in-touch:hover{
+    cursor: pointer;
+    font-size:larger;
+    background-color: coral;
+}
+footer li:hover{
+    cursor: pointer;
+    font-size:larger;
+}
