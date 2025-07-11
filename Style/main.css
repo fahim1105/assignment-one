@@ -307,7 +307,7 @@ footer a{
 }
 .card-titel{
     height: 29px;
-    width: 225px;
+    width: 255px;
 }
 .card-paragraph{
     height: 44px;
@@ -368,4 +368,9 @@ footer a{
 footer li:hover{
     cursor: pointer;
     font-size:larger;
+}
+/* Let's Play with cards */
+.card:hover{
+    background-color: #f8c3c3;
+    width: 350px;
 }
