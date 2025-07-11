@@ -1,0 +1,126 @@
+/* Font style */
+.inter-font-style{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.raleway-font-style{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* Navigation Style */
+nav button a{
+    text-decoration: none;
+    color: white;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+
+/* Logo design */
+.logo{
+    color: #4E47FF;
+    font-size: 34px;
+}
+/* Sign UP button decoration */
+.signup{
+ background-color:#4E47FF;
+ height: 48px;
+ width: 132px;
+ border: none;
+ border-radius: 5px;
+ font-size: 16px;
+ font-weight: bold;
+ padding: 12px 36px;
+}
+
+/* banner decoration */
+.banner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 159px 210px 152px 210px;
+}
+.banner-title{
+    height: 150px;
+    width: 902px;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* stay-focused Button decoration */
+.stay-focused{
+ background-color:#4E47FF;
+ border: none;
+ border-radius: 5px;
+ padding: 12px 36px;
+ margin-top: 25px;
+ 
+}
+
+.text-deco{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 12px 36px;
+    height: 34px;
+    width: 120px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.hadder{
+    background-image: url('../Assets/Hero-bg.png');
+    height: 770px;
+    width: 1435px;
+}
+/* Action Decoration */
+.action-title{
+    font-size: 45px;
+    font-weight: bold;
+    height: 49px;
+    width: 517px;
+}
+.action-paragraph{
+    font-size: 24px;
+    font-weight: 400;
+    height: 60px;
+    width: 517px;
+    color: #25243289;
+}
+.action-buttons{
+    height: 48px;
+    width: 229;
+    border: none;
+    border-radius: 5px;
+    background-color: #4E47FF;
+}
+.action-a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    height: 24px;
+    width: 157px;
+    padding: 12px 36px;
+}
+.action-all{
+    display: flex;
+    justify-content:space-around;
+    margin: 116px 160px 0px 141px;
+}
+.action-image{
+    border: none;
+    height: 328px;
+    width: 403px;
+    border-radius: 48px;
+}
+
+
